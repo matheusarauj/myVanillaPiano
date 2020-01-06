@@ -68,7 +68,7 @@ const audios = {
         key:69
     },
     'a#2':{
-        pathNote:'ThirdOctave/A3.mp3',
+        pathNote:'ThirdOctave/As3.mp3',
         key:52
     },
     'b2':{
