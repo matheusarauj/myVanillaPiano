@@ -1,3 +1,3 @@
 # myVanillaPiano
-a single piano made in javascript
+a single piano made in javascript. or almost that
 
